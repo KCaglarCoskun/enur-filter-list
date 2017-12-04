@@ -1,1 +1,3 @@
 [Adblock Plus 2.0]
+! Removes video suggestions on video pages
+youtube.com###related
