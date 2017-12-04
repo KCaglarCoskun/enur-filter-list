@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
 ! Removes video suggestions on video pages
 youtube.com###related
-! Removes recommended everything on home page
-youtube.com##ytd-page-manager > ytd-browse:first-child
+! Removes recommended everything on home page (an unwanted feature, thus it is commented out)
+! youtube.com##ytd-page-manager > ytd-browse:first-child
