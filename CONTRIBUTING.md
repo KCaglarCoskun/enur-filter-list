@@ -7,6 +7,6 @@ This filter list is written with compliance to adblock plus filter guidelines: h
 * Stack Exchange "Hot Network Questions" list should be blocked since the entries are unrelated to the question at hand.
 
 **Examples of recommendations that should not be blocked:**
-* Stack Exchange "Linked" and "Related" lists should not be blocked since the are related to the question.
+* Stack Exchange "Linked" and "Related" lists should not be blocked since they are related to the question.
 
 Obviously: Search bars and search results should not be blocked
