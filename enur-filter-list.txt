@@ -3,3 +3,5 @@
 youtube.com###related
 ! Removes recommended everything on home page (an unwanted feature, thus it is commented out)
 ! youtube.com##ytd-page-manager > ytd-browse:first-child
+! Removes recommended channels on some channels page
+youtube.com##ytd-vertical-channel-section-renderer
