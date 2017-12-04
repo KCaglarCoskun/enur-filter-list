@@ -3,7 +3,7 @@ This filter list is written with compliance to adblock plus filter guidelines: h
 
 #### Examples of recommendations that should be blocked: ####
 * Most recommendations in sidebars of magazine websites
-* Youtube recommendations include very few unrelated recommendations but they still do. As a result, they are blocked.
+* Youtube sidebar recommendations include lots of recommendations that are unrelated to the video being watched. They are all somehow related to watch history but relatedness in this project is relative to the topic at hand. As a result, they are blocked.
 * Stack Exchange "Hot Network Questions" list should be blocked since the entries are unrelated to the question at hand.
 
 #### Examples of recommendations that should not be blocked: ####
