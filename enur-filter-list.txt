@@ -7,3 +7,6 @@ youtube.com##.ktb
 ! youtube.com##ytd-page-manager > ytd-browse:first-child
 ! Removes recommended channels on some channels page
 youtube.com##ytd-vertical-channel-section-renderer
+! Removes "Hot Network Topics"
+stackexchange.com###hot-network-questions
+stackowerflow.com###hot-network-questions
