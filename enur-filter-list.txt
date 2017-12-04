@@ -1,3 +1,5 @@
 [Adblock Plus 2.0]
 ! Removes video suggestions on video pages
 youtube.com###related
+! Removes recommended everything on home page
+youtube.com##ytd-browse
