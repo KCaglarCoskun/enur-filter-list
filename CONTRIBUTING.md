@@ -12,3 +12,9 @@ This filter list is written with compliance to adblock plus filter guidelines: h
 ### Modules That Should not be Blocked ###
 * Webpages that provide recommendations only and don't have a particular topic. Lots of homepages are in this category e.g. youtube.com/ or homepages of magazine/newspaper websites.
 * Obviously: Search bars and search results should not be blocked
+
+### Sorting ###
+Grouping similar filters is cannon. Alphabetical sorting is not strictly necessary since ctrl+f replaces this need. It is preferred though.
+
+### Comments ###
+Comments for every filter is desired. Comments should be positioned over the filter.
