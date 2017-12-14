@@ -1,9 +1,32 @@
 [Adblock Plus 2.0]
 
+! Removes "news & buzz"  on cnn
+cnn.com##.ob_container
+! Removes "More from CNN"  on cnn
+cnn.com##.ob-last
+cnn.com##.zn-story-bottom-second
+
+! Removes "Trending" list on nytimes
+nytimes.com##.trending-module
+! Removes "Recommended For You", "More in .." and author lists on nytimes
+nytimes.com###whats-next
+! Removes the news ribbon on nytimes
+nytimes.com##.news-collection
+
 ! Removes "Hot Network Topics"
 stackexchange.com###hot-network-questions
 stackowerflow.com###hot-network-questions
 superuser.com###hot-network-questions
+
+! Removes "Most popular"  on the guardian
+theguardian.com##.right-most-popular
+! Removes "Most viewed"  on the guardian
+theguardian.com##.fc-container
+
+! Removes "Most Read ..."  on the washington post
+washingtonpost.com##.post-most
+! Removes "The Post Recommends"  on the washington post
+washingtonpost.com##.postrecommends
 
 ! Removes video suggestions on video pages for desktop view
 youtube.com###related
