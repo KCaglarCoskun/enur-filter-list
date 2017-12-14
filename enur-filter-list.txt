@@ -1,11 +1,14 @@
 [Adblock Plus 2.0]
-! Removes video suggestions on video pages for desktop view
-youtube.com###related
-! Removes video suggestions on video pages for mobile view
-youtube.com##.ktb
-! Removes recommended channels on some channels page
-youtube.com##ytd-vertical-channel-section-renderer
+
 ! Removes "Hot Network Topics"
 stackexchange.com###hot-network-questions
 stackowerflow.com###hot-network-questions
 superuser.com###hot-network-questions
+
+! Removes video suggestions on video pages for desktop view
+youtube.com###related
+! Removes video suggestions on video pages for mobile view
+youtube.com##.ll
+youtube.com##.lub
+! Removes recommended channels on some channels page
+youtube.com##ytd-vertical-channel-section-renderer
