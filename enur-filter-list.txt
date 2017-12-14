@@ -9,6 +9,6 @@ superuser.com###hot-network-questions
 youtube.com###related
 ! Removes video suggestions on video pages for mobile view
 youtube.com##.ll
-youtube.com##.sn
+youtube.com##.lub
 ! Removes recommended channels on some channels page
 youtube.com##ytd-vertical-channel-section-renderer
