@@ -1,5 +1,12 @@
 [Adblock Plus 2.0]
 
+! Removes side column  on bbc
+bbc.com##.column--secondary
+bbc.co.uk##.column--secondary
+! Removes tag grouped list on bbc
+bbc.com##.container-more-from-this-index
+bbc.co.uk##.container-more-from-this-index
+
 ! Removes "news & buzz"  on cnn
 cnn.com##.ob_container
 ! Removes "More from CNN"  on cnn
