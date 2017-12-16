@@ -13,6 +13,19 @@ cnn.com##.ob_container
 cnn.com##.ob-last
 cnn.com##.zn-story-bottom-second
 
+! Removes "Trending"  on huffington post
+huffingtonpost.com##.bn-trending
+huffingtonpost.com##.yn-trending
+! Removes "You May Like"  on huffington post
+huffingtonpost.com##.below-entry
+! Removes "Buttom Most Shared"  on huffington post
+huffingtonpost.com##.js-bottom-most-shared
+! Removes "What's Hot"  on huffington post
+huffingtonpost.com##.buttom-trending
+
+! Removes "Just In"  on indiatimes
+indiatimes.com##.just-in
+
 ! Removes "Trending" list on nytimes
 nytimes.com##.trending-module
 ! Removes "Recommended For You", "More in .." and author lists on nytimes
