@@ -37,6 +37,10 @@ nytimes.com##.news-collection
 stackexchange.com###hot-network-questions
 stackowerflow.com###hot-network-questions
 superuser.com###hot-network-questions
+serverfault.com###hot-network-questions
+askubuntu.com###hot-network-questions
+stackapps.com###hot-network-questions
+mathoverflow.net###hot-network-questions
 
 ! Removes "Most popular"  on the guardian
 theguardian.com##.right-most-popular
