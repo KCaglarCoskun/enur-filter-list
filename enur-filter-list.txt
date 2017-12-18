@@ -35,7 +35,7 @@ nytimes.com##.news-collection
 
 ! Removes "Hot Network Topics"
 stackexchange.com###hot-network-questions
-stackowerflow.com###hot-network-questions
+stackoverflow.com###hot-network-questions
 superuser.com###hot-network-questions
 serverfault.com###hot-network-questions
 askubuntu.com###hot-network-questions
