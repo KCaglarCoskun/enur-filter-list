@@ -59,3 +59,10 @@ youtube.com##.ll
 youtube.com##.lub
 ! Removes recommended channels on some channels page
 youtube.com##ytd-vertical-channel-section-renderer
+
+! The following remove recommended content on instagram:
+instagram.com##div~article
+*instagram.com/explore*^$document
+*instagram.com/reels*^$document
+! Removes suggested channels on instagram:
+instagram.com##div:has(>div>div>span:has-text(Suggested for you))
