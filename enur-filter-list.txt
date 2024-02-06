@@ -66,3 +66,14 @@ instagram.com##div~article
 *instagram.com/reels*^$document
 ! Removes suggested channels on instagram:
 instagram.com##div:has(>div>div>span:has-text(Suggested for you))
+
+! Removes 'recommended words' on cambridge dictionary
+dictionary.cambridge.org##div.lmb-25
+
+! Removes "trending" and "recommended" on github
+github.com##.js-feed-item-view:has-text("Trending repositories")
+github.com##.js-feed-item-view:has-text("Recommended for you")
+
+! Removes recommended articles on xda-developers
+www.xda-developers.com###secondary
+www.xda-developers.com##.article-widget-feed
