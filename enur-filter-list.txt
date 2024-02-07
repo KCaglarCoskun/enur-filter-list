@@ -77,3 +77,7 @@ github.com##.js-feed-item-view:has-text("Recommended for you")
 ! Removes recommended articles on xda-developers
 www.xda-developers.com###secondary
 www.xda-developers.com##.article-widget-feed
+
+! Removes article suggestions on infoworld
+www.infoworld.com###editorialfakesidebardiv
+www.infoworld.com##.end-note
